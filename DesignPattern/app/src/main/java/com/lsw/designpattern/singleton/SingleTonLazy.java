@@ -1,7 +1,7 @@
 package com.lsw.designpattern.singleton;
 
 /**
- * 懒汉单例
+ * 静态内部类懒汉单例
  * Created by Luosiwei on 2017/9/25.
  */
 
